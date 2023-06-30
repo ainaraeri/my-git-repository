@@ -4,4 +4,4 @@ My code for the git project
 
 # I'm in the another-feature branch
 
-> Another code modification
+> Another code modification, added to master again

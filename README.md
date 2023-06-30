@@ -6,3 +6,4 @@ My code for the git project
 
 > Another code modification, added to master again
 > Another code modification, gitgitgit
+> Another code modification, gitgitgit

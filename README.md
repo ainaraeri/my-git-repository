@@ -1,6 +1,6 @@
 # My Git Project
 
-My code for the git project
+My scary merge conflict demo
 
 # I'm in the another-feature branch
 
